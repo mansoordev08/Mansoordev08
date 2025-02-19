@@ -4,4 +4,5 @@
 
 ## Мой стек технологий
 
-img src="https://img.shields.io/badge/html-3d642dstyle=for-the-badge&logo=html5&logoColor=fff"/
+img src="https://img.shields.io/badge/html-3d642d style=for-the-badge&logo=НАЗВАНИЕhtml5&logoColor=white"/
+
