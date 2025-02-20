@@ -10,3 +10,16 @@
 
 <img src="https://img.shields.io/badge/HTML-287233?style=for-the-badge&logo=html5&logoColor=white">     <img src="https://img.shields.io/badge/CSS-287233?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/JS-287233?style=for-the-badge&logo=javascript&logoColor=white"> 
 
+## ✅ Пройденные курсы в Morrison Academy  
+
+| №  | 📚 Курс                             | 📆 Дата завершения           |
+|----|------------------------------------|--------------------------------|
+| 1  | Старт                              |   26/02/2024    |
+| 2  | 1 модуль                          |   28/02/2024   |
+| 3  | 2 модуль                          | 01/04/2024 |
+| 4  | 3 модуль                          |       17/04/2024       |
+| 5 | figma                        |            06/05/2024      |
+| 6  | Tilda                       |       17/06/2024       |
+| 7  |java script #1                     |       10/07/2024       |
+| 8  |  java script #2                           |       08/08/2024       |
+| 9  | Практика                         |       28/08/2024       |
